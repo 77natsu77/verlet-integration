@@ -143,7 +143,7 @@ namespace Verlet_Integration
                 // The Magic Formula:
                 // NewPos = CurrentPos + (CurrentPos - OldPos) + Acceleration * (dt * dt)
                 float vx = (X - OldX) * 0.99f; // 1% energy loss per frame
-                float vy = Y - OldY * 0.99f; ;
+                float vy = (Y - OldY) * 0.99f; ;
 
                 OldX = X;
                 OldY = Y;
