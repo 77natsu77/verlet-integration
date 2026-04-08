@@ -96,7 +96,7 @@ Subtracting from `OldX` means the integrator sees a large `(X - OldX)` delta nex
 ### Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/verlet-integration-console.git
+git clone https://github.com/77natsu77/verlet-integration-console.git
 cd verlet-integration-console
 dotnet run
 ```
