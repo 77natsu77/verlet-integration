@@ -1,4 +1,4 @@
-# 🧱 Verlet Integration Physics — Console Simulation
+# Verlet Integration Physics — Console Simulation
 
 > A real-time, constraint-based rigid-body physics engine built from scratch in C# — rendered entirely in the terminal.
 
@@ -6,7 +6,7 @@ This project implements **Verlet Integration**, the same numerical method used b
 
 ---
 
-## ⚙️ Technical Depth
+## Technical Depth
 
 ### 1. Verlet Integration (The Core Formula)
 
@@ -87,7 +87,7 @@ Subtracting from `OldX` means the integrator sees a large `(X - OldX)` delta nex
 
 ---
 
-## 🚀 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 - [.NET SDK](https://dotnet.microsoft.com/download) (tested on .NET 6+)
@@ -123,7 +123,7 @@ All key parameters are at the top of `Program.cs`:
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 
 Building this project developed mastery of:
 
@@ -136,7 +136,7 @@ Building this project developed mastery of:
 
 ---
 
-## 📐 Architecture
+## Architecture
 
 ```
 Program.cs
@@ -151,7 +151,7 @@ Program.cs
 
 ---
 
-## 🔭 Extensions & Ideas
+## Extensions & Ideas
 
 - [ ] Add a **hanging rope** (chain of points, no diagonals needed)
 - [ ] Implement **mouse interaction** to drag points
@@ -161,7 +161,7 @@ Program.cs
 
 ---
 
-## 📚 Further Reading
+## Further Reading
 
 - [Jakobsen, T. (2001) — *Advanced Character Physics* (GDC Paper)](https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf) — The original paper this engine is based on
 - [Matthias Müller — Position Based Dynamics](https://matthias-research.github.io/pages/publications/posBasedDyn.pdf)
