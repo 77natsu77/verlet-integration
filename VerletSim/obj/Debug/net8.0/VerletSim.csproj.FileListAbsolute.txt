@@ -1,0 +1,11 @@
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/bin/Debug/net8.0/VerletSim.deps.json
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/bin/Debug/net8.0/VerletSim.dll
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/bin/Debug/net8.0/VerletSim.pdb
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.GeneratedMSBuildEditorConfig.editorconfig
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.AssemblyInfoInputs.cache
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.AssemblyInfo.cs
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.csproj.CoreCompileInputs.cache
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.dll
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/refint/VerletSim.dll
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/VerletSim.pdb
+/home/jomiloju/vs code projects/verlet-integration/VerletSim/obj/Debug/net8.0/ref/VerletSim.dll
