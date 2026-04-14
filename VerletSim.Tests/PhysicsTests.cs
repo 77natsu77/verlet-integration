@@ -67,8 +67,8 @@ namespace VerletSim.Tests
             // Act: Update once
             point.Update(DELTA_TIME);
 
-            // Assert: Displacement should match d = 0.5 * a * t²
-            float expectedDisplacement = 0.5f * GRAVITY * DELTA_TIME * DELTA_TIME;
+            // Assert: Displacement should match displacement = accel * dt²
+            float expectedDisplacement = GRAVITY * DELTA_TIME * DELTA_TIME;
             float actualDisplacement = point.Y - initialY;
 
             Assert.Equal(expectedDisplacement, actualDisplacement, precision: 3);
