@@ -1,5 +1,5 @@
 # Verlet Integration Physics — Console Simulation
-
+[![CI](https://github.com/77natsu77/verlet-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/77natsu77/verlet-integration/actions/workflows/ci.yml)
 > A real-time, constraint-based rigid-body physics engine built from scratch in C# — rendered entirely in the terminal.
 
 This project implements **Verlet Integration**, the same numerical method used by professional game physics engines (Havok, PhysX, Bullet), to simulate a rigid square under gravity, collision, and user-applied forces — all in a 40×20 ASCII console viewport.
